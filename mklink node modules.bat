@@ -1,0 +1,1 @@
+mklink /D F:\lp-workspace\gitlab\newmainservicefrontend\node_modules F:\lp-workspace\demo\vue-typescript-admin-template\node_modules
