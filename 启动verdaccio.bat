@@ -1,0 +1,1 @@
+pm2 start --watch -i max "E:\nvm\v12.18.2\node_modules\verdaccio\bin\verdaccio"
